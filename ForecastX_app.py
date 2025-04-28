@@ -94,4 +94,6 @@ st.write(f"Model R² Score: {model_score:.2f}")
 # Contact Section
 st.sidebar.title("Contact 📞")
 st.sidebar.write("For inquiries, please contact: support@forecastx.com")
+st.sidebar.write("Follow us on [LinkedIn](https://www.linkedin.com)")
+st.sidebar.write("Follow us on [Twitter](https://twitter.com)")
 
